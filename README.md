@@ -40,7 +40,7 @@ To run this project locally or contribute:
 ## Credits
 Dataset: WM-811K Wafer Map (CC0-1.0 license).
 Tools: TensorFlow, Streamlit, OpenCV, NumPy, Pillow.
-Author: HARSHAD ZALANIYA
+Author: Abhi Shobhasana 
 
 ## Contributing
 Feel free to fork this repository, submit issues, or create pull requests to enhance the app’s functionality or UI.
