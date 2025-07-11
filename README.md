@@ -25,7 +25,7 @@ To run this project locally or contribute:
    streamlit run app.py
   ```
   ## Streamlit Link For This Application
-  https://ai-based-pass-fail-semiconductor-wafer-using-image-9jefucbzzeu.streamlit.app/
+  https://ai-based-pass-fail-semiconducter-wafer-detaction-tbrvg89zyjlga.streamlit.app/
   ## File Structure
   ai-based-pass-fail-semiconductor-wafer-using-image/
 ├── app.py                  # Streamlit app script
